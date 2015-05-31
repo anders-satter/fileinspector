@@ -1,0 +1,1 @@
+FileInspector is a java Swing based text file tracker. It will track the files in a directory, start to track any new files and stop tracking deleted ones. 
